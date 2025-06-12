@@ -31,3 +31,6 @@ The animation is rendered using Manim’s OpenGL engine for smooth and high-qual
 🎞️ Output
 MentalHealthAct_Network_Animation.mp4
 This is the final video output illustrating the monthly evolution of the legislative network. It shows the dynamic interplay of legal relationships and structural changes around the core act over time.
+
+📊 Information Extraction and Network Analysis
+The notebook Information_Extraction.ipynb contains code for Named Entity Recognition, Relation Extraction, Katz Prestige Centrality, Louvain Community Detection Algorithm, Agglomerative Clustering, and Content Similarity using Jaccard Similarity. These methods are used to identify the best parliamentary committee label for each macro community based on LDA keywords, providing deeper insights into the structure and thematic organization of the legislative network.
